@@ -58,6 +58,12 @@
       padding-top: 1rem;
     }
 
+    .disclaimer {
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: #999;
+    }
+
     @media (max-width: 600px) {
       .container {
         padding: 1rem;
@@ -119,7 +125,10 @@
     <p>We may update this Privacy Policy periodically. Continued use of the app implies acceptance of the revised policy.</p>
 
     <footer>
-      &copy; [Your Company Name] • This Privacy Policy was last updated on [Insert Date].
+      &copy; FannelAds • This Privacy Policy was last updated on [Insert Date].
+      <div class="disclaimer">
+        This site is not a part of the Facebook website or Facebook Inc. Additionally, this site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.
+      </div>
     </footer>
   </div>
 </body>
