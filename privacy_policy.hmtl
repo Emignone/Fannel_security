@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
+  <meta charset="UTF-8"/>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Privacy Policy</title>
   <style>
@@ -125,7 +125,7 @@
     <p>We may update this Privacy Policy periodically. Continued use of the app implies acceptance of the revised policy.</p>
 
     <footer>
-      &copy; FannelAds • This Privacy Policy was last updated on [Insert Date].
+      &copy; [Your Company Name] • This Privacy Policy was last updated on [Insert Date].
       <div class="disclaimer">
         This site is not a part of the Facebook website or Facebook Inc. Additionally, this site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc.
       </div>
